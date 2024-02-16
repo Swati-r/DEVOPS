@@ -1,2 +1,2 @@
 This is networking file which will reflect the networking aspects of project.
-i m swati
+i am managing networks ,virtual network, subnets and NSG.
