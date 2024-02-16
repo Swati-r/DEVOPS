@@ -2,7 +2,4 @@ This is Database File.
 i am storing all the database files.
  i know oracle
 
-<<<<<<< HEAD
-=======
 >>>>>>> feature
->>>>>>> 6598df7 (ll)
